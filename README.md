@@ -2,7 +2,7 @@
 A BMI App which calculates the BMI (Body Mass Index) of a person based on the person's height and weight. Showing the user is he/she is overweight/underweight/normal.
 
 ## Live Site
-View page https://pimabmi.herokuapp.com/
+View page https://bmicalc1.netlify.app/
 
 ## How to use the Application
 Set your height and weight uisng the scroll bar.
